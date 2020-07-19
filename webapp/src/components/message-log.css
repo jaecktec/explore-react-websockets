@@ -1,0 +1,4 @@
+.message-log{
+    height: 100vh;
+    overflow-x: scroll;
+}
